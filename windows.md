@@ -4,6 +4,7 @@ dir
 
 cls
 
-dir * /s/d                _s pour le récursif_
+_s pour le récursif_
+dir * /s/d
 
 
