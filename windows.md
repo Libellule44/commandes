@@ -1,6 +1,8 @@
-<p>echo</p>
-<p></p>dir</p>
-<p>cls</p>
+echo
+
+dir
+
+cls
 
 # s pour le récursif
 # d pour 
